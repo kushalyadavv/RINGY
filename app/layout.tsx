@@ -27,7 +27,7 @@ export default function RootLayout({
         appearance={{
           layout: {
             socialButtonsVariant: "iconButton",
-            logoImageUrl: "/icons/ringy-logo.svg",
+            // logoImageUrl: "/icons/ringy-logo.svg",
           },
           variables: {
             colorText: "#fff",
